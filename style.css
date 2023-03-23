@@ -1,0 +1,20 @@
+body{
+    background-color: lightcyan;
+}
+.big-title{
+    font-family: cursive;
+    font-size: 10rem;
+    color: yellow;
+}
+
+.h{
+    border-radius: 2cm;
+    border-color: black;
+    border-width: 1cm;
+    border-left: 5cm;
+    border-right: 1cm;
+    border-radius: 1cm;
+    padding: 5rem;
+    margin: 5rem;
+    color: red;
+}
