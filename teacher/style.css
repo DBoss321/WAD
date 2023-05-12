@@ -1,0 +1,75 @@
+.card {
+    display: inline-block;
+    width: 300px; /* Set the width of each card */
+    margin-right: 20px; /* Add some space between each card */
+    margin: 15px;
+    background-color: rgb(197, 241, 186);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* box-shadow: 5px 5px 0px ; */
+  }
+
+h1{
+    margin: 10px;
+    text-align: center;
+}
+
+.content1{
+    display: inline-block;
+    /* margin: 5px; */
+}
+
+.space{
+    margin-top: 5px;
+}
+
+.content2{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content3{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content4{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content5{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content6{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content7{
+    display: inline-block;
+    /* margin: 5px; */
+}
+.content8{
+    display: inline-block;
+    /* margin: 5px; */
+}
+
+.hide{
+    visibility: none;
+    opacity: 0;
+    display: none;
+}
+
+.approve{
+    margin-right: 5px;
+}
+
+.btn{
+    background-color: green;
+    border-radius: 50px;
+}
+
+.btn-lg{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
